@@ -4,6 +4,8 @@ This project provides an interactive tool for visualizing relationships between 
 
 ---
 
+![alt text](demo/demo.png "Title")
+
 ## Features
 
 - Upload and process CSV files with `Source` and `Target` (or `Destination`) columns.
